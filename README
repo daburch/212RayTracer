@@ -1,0 +1,13 @@
+Course and section:
+	CpSc 212 - section 1
+
+Name:
+	David Burch
+
+Description:
+	Create a refraction formula to implement transparent objects into a ray tracer.
+
+Solution Descrition:
+	The algorith was designed using Shell's law.
+
+Usage: ./main model.txt > output.ppm
